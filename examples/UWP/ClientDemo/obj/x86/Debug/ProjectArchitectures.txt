@@ -1,0 +1,1 @@
+C:\Users\martyn.willingham\Documents\Visual Studio 2017\Projects\sharp7-full-1.0.0\examples\UWP\ClientDemo\UWPClient.csproj;x86
